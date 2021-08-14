@@ -14,7 +14,7 @@ import numpy as np
 #  3D space has coordinates [10,10,500] mm relative to the camera reference frame.
 x = 40
 y = -40
-z = 400
+z = 300
 # image principal point is at coordinates [244,180] pixels
 ox = 244
 oy = 180
